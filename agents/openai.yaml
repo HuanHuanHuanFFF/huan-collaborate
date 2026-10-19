@@ -1,0 +1,7 @@
+interface:
+  display_name: "Huan Collaborate"
+  short_description: "Coordinate scoped work, file handoffs, integration, and closeout"
+  default_prompt: "使用 $huan-collaborate，在现有授权内推进本轮任务，明确责任、文件交接、依赖和验收，按实际状态收尾。"
+
+policy:
+  allow_implicit_invocation: false
